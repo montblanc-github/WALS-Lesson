@@ -258,3 +258,12 @@ i{
     color: #000;
     text-decoration: underline;
 }
+
+footer{
+    height: 60px;
+    background-color: #ec715f;
+    font-size: 16px;
+    color: #fafafa;
+    text-align: center;
+    line-height: 60px;
+}
